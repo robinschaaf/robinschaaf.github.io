@@ -206,10 +206,11 @@ img {
 }
 
 .bar-graph {
-margin-top: 50px;
-border-top: 1px solid #ddd;
-border-bottom: 1px solid #ddd;
-background-color: $lightGray;
+  padding: 5px;
+  margin-top: 10px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: $lightGray;
 }
 
 
