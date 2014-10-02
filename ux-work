@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<h2>UX Work, in bar graph form:</h2>
+<div style="width:80%">
+  <div class="bar-graph" style="width: 90%">Personas, storyboarding, scenarios</div>
+  <div class="bar-graph" style="width: 100%">User Inquiry (via Interviews, Surveys, etc)</div>
+  <div class="bar-graph" style="width: 90%">Comparative Research</div>
+  <div class="bar-graph" style="width: 30%">Google Analytics</div>
+  <div class="bar-graph" style="width: 90%">SEO Techniques</div>
+  <div class="bar-graph" style="width: 60%">Information Architecture</div>
+  <div class="bar-graph" style="width: 90%">Wireframes/Prototyping (Axure)</div>
+  <div class="bar-graph" style="width: 60%">Mobile/Responsive Design</div>
+  <div class="bar-graph" style="width: 60%">Usability testing (Morae)</div>
+  <div class="bar-graph" style="width: 100%">Sketching ideas!</div>
+</div>
+
+
+
+<h3>Father Hesburgh Digital Archives</h3>
+This is my most recent completed project at the library - a pilot project for building a website about Father Hesburgh's role in the Civil Rights era.  
+The most notable challenge about this project is that the primary audience is for potential donors (think "flashy"), but it is intended to serve as a scholarly research tool.
+
+Presentation to upper management:
+Final report:  
+
+<h3>Digital Exhibits</h3>
+This is a current on-going project in which we will be developing software that allows curators within special collections and rare books to create online digital exhibits and collections.
+Since this is an internal project I didn't produce a presentation or final report, but here are some sample documents of research I've done.
+
+
+Personas:
+Feature Matrix:
+
+
+
+<h3>CurateND Project</h3>
+CurateND is an institutional repository project that has been ongoing by another team within my organization.  I've been asked to provide occasional UX design on a consultative basis for them, including "Responsive-izing" their design.
+Wireframes are produced by Axure.
+
+
+
