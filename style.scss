@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $bodyFont;
+  font: 16px/1.4 $bodyFont;
   color: $darkGray;
 }
 
@@ -192,7 +192,6 @@ img {
   font-family: $headerFont; 
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
 }
 
 .site-description {
