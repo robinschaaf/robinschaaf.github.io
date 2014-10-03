@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $pink;
+  color: $darkMagenta;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $pink;
+    color: $darkMagenta;
   }
 }
 
@@ -151,7 +151,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkTeal;
   
   @include mobile {
     text-align: center;
@@ -209,7 +209,7 @@ img {
   padding: 5px;
   margin-top: 10px;
   border: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $teal;
   font-size: 12px;
   
 }
@@ -237,7 +237,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $pink;
+      color: $magenta;
     }
   }
 }
@@ -280,7 +280,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $darkTeal;
 }
 
 footer {
