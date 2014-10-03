@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $darkMagenta;
+  color: $magenta;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkMagenta;
+    color: $magenta;
   }
 }
 
@@ -208,8 +208,8 @@ img {
 .bar-graph {
   padding: 5px;
   margin-top: 10px;
-  border: 1px solid #ddd;
-  background-color: $teal;
+  border: 1px solid $teal;
+  background-color: $lightTeal;
   font-size: 12px;
   
 }
@@ -280,7 +280,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $darkTeal;
+  background-color: $teal;
 }
 
 footer {
