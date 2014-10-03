@@ -20,9 +20,14 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
+$navFont: 'Montserrat', Helvetica, Arial, sans-serif;
+$headerFont: 'Montserrat', Helvetica, Arial, sans-serif;
+$bodyFont: 'Montserrat', Helvetica, Arial, sans-serif;
+
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+
 
 // Mobile breakpoints
 @mixin mobile {
