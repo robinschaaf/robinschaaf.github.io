@@ -146,6 +146,13 @@ img {
     clear: both;
 }
 
+.clearfix .left{
+    float: left;
+}
+
+.clearfix .right{
+    float: right;
+}
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
