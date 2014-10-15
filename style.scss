@@ -228,16 +228,18 @@ img {
   width: 100%;
   
   td{
-  	width: 50%;
-  	div{
-  		float:right;
-  	}
+    width: 50%;
+    vertical-align: center;
+    
+    div{
+      float:right;
+    }
   }
 }
 
 .bar-graph {
   padding: 5px;
-  margin-top: 10px;
+  margin: 10px 5px;
   border: 1px solid $teal;
   background-color: $lightTeal;
   font-family: $belleza;
