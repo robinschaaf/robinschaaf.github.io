@@ -222,6 +222,19 @@ img {
   }
 }
 
+.bar-graph-table {
+  padding: 5px;
+  margin: 10px;
+  width: 100%;
+  
+  td{
+  	width: 50%;
+  	div{
+  		float:right;
+  	}
+  }
+}
+
 .bar-graph {
   padding: 5px;
   margin-top: 10px;
