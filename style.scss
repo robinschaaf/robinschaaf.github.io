@@ -229,7 +229,7 @@ img {
   
   td{
     width: 50%;
-    vertical-align: center;
+    vertical-align: middle;
     
     div{
       float:right;
@@ -239,7 +239,7 @@ img {
 
 .bar-graph {
   padding: 5px;
-  margin: 10px 5px;
+  margin: 0 10px;
   border: 1px solid $teal;
   background-color: $lightTeal;
   font-family: $belleza;
