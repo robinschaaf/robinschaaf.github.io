@@ -239,10 +239,12 @@ img {
 .bar-graph {
   padding: 5px;
   margin: 3px 10px;
+  min-width: 50px;
   border: 1px solid $teal;
   background-color: $lightTeal;
   font-family: $belleza;
   font-size: 12px;
+  text-align: right;
 }
 
 
