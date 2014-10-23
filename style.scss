@@ -221,11 +221,21 @@ img {
   }
 }
 
-.light-border {
+.card {
   border-radius: 4px;
   border: 1px solid #d5d5d5;
   margin:10px 10px 10px 0px;
   height: 100%;
+  
+  .card-top{
+  	background:black; 
+  	width:100%; 
+  	height: 80px;
+  	h3{
+  		margin:0px;
+  		color: white;
+  	}
+  }
 }
 
 .bar-graph-table {
