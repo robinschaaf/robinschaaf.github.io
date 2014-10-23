@@ -228,20 +228,20 @@ img {
   border: 1px solid #d5d5d5;
   height: 100%;
 	  
-	.left{
+	&.left{
 		width: 256px;
 		margin:10px 10px 10px 0px;	
 	}
 	
 	
-	.middle{
+	&.middle{
 		width: 327px;
 		margin:10px 0px;
 		float: left;
 	}
 	
 	
-	.right{
+	&.right{
 		width: 337px;
 		margin:10px 0px 10px 10px;	
 	}
