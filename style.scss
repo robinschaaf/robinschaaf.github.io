@@ -221,30 +221,31 @@ img {
   }
 }
 
-.left .card{
-	width: 256px;
-	margin:10px 10px 10px 0px;	
-}
-
-
-.middle .card{
-	width: 327px;
-	margin:10px 0px;
-	float: left;
-}
-
-
-.right .card{
-	width: 337px;
-	margin:10px 0px 10px 10px;	
-}
 
 
 .card {
   border-radius: 4px;
   border: 1px solid #d5d5d5;
   height: 100%;
-  
+	  
+	.left{
+		width: 256px;
+		margin:10px 10px 10px 0px;	
+	}
+	
+	
+	.middle{
+		width: 327px;
+		margin:10px 0px;
+		float: left;
+	}
+	
+	
+	.right{
+		width: 337px;
+		margin:10px 0px 10px 10px;	
+	}
+
   .card-top{
   	background: $darkTeal; 
   	width:100%; 
