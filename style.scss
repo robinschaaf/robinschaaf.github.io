@@ -228,33 +228,38 @@ img {
   border: 1px solid #d5d5d5;
   height: 100%;
 	  
-	&.left{
-		width: 256px;
-		margin:10px 10px 10px 0px;	
-	}
-	
-	
-	&.middle{
-		width: 327px;
-		margin:10px 0px;
-		float: left;
-	}
-	
-	
-	&.right{
-		width: 337px;
-		margin:10px 0px 10px 10px;	
-	}
+  &.left{
+    width: 256px;
+    margin:10px 10px 10px 0px;	
+  }
 
-  .card-top{
+  &.middle{
+    width: 327px;
+    margin:10px 0px;
+    float: left;
+  }
+	
+  &.right{
+    width: 337px;
+    margin:10px 0px 10px 10px;	
+  }
+
+  .top{
   	background: $darkTeal; 
   	width:100%; 
-  	height: 80px;
+  	height: 70px;
   	h3{
   		padding: 1em;
   		margin: 0px;
   		color: white;
   	}
+  }
+  
+  .inside{
+    width:100%; 
+    overflow: hidden;
+    font-size: 14px;
+    margin: 5px;
   }
 }
 
